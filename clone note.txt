@@ -1,0 +1,1 @@
+I just created empty remote repo from GitHub account and cloned this repo by clicking on Set up in desktop and(optionally select the location)
